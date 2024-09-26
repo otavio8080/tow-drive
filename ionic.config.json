@@ -1,0 +1,7 @@
+{
+  "name": "Tow-Drive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
